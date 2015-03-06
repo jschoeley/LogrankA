@@ -1,0 +1,5 @@
+* formula object
+* method for xtable
+* time weights
+* alternative computation of LR consistent with survdiff and logrank
+* incorporate vignette with source (knitr support since R 3.0)
